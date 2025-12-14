@@ -1,51 +1,27 @@
-<br clear="both">
+# Hi 👋, I'm Matthew aka Knifej
 
-<h1 align="center">Hello There! 👋</h1>
+### A lazy developer from poland
 
-###
+- 🔭 I'm currently working on **AMDC (Advanced Modern Dynamic Campaign) for DCS**
 
-<br clear="both">
+- 🌱 I'm currently learning **Lua & MOOSE**
 
-<h2 align="center">👩‍💻  About Me</h2>
+- 👯 I'm looking to collaborate on **Nothing**
 
-###
+- 🤝 I'm looking for help with **AMDC**
 
-<br clear="both">
+- 💬 Ask me about **DCS**
 
-<h4 align="center">I'm Matthew some call me Knifej and I'm from Poland!<br><br>- 🔭 I’m too young for work.<br>- 📚 I'm currently learning nothing.<br>- ⚡ In my free time I play video games.<br>- 🖋 Want to learn Unity.<br>- ☎ If you want to contact me send me a friend request on discord @knifej or email me at knifejjestem@gmail.com</h4>
+- 📫 How to reach me **@knifej on discord or knifejjestem@gmail.com**
 
-###
+- ⚡ Fun fact **I dont respond to emails**
 
-<br clear="both">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/KnifejJestem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KnifejJestem" height="30" width="40" /></a>
+<a href="https://youtube.com/knifej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knifej" height="30" width="40" /></a>
+</p>
 
-<h2 align="center">🛠 Language and tools</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="center">🔥   My Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KnifejJestem&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
