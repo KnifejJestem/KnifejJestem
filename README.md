@@ -4,13 +4,13 @@
 
 - 🔭 I'm currently working on **AMDC (Advanced Modern Dynamic Campaign) for DCS**
 
-- 🌱 I'm currently learning **Lua & MOOSE**
+- 🌱 I'm currently learning **Lua & MOOSE & Modding Hytale**
 
-- 👯 I'm looking to collaborate on **Nothing**
+- 👯 I'm looking to collaborate on **Hytale Mods**
 
 - 🤝 I'm looking for help with **AMDC**
 
-- 💬 Ask me about **DCS**
+- 💬 Ask me about **DCS & Hytale**
 
 - 📫 How to reach me **@knifej on discord or knifejjestem@gmail.com**
 
