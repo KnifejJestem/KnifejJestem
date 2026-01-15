@@ -2,13 +2,13 @@
 
 ### A lazy developer from poland
 
-- 🔭 I'm currently working on **AMDC (Advanced Modern Dynamic Campaign) for DCS**
+- 🔭 I'm currently working on **ADC (Advanced Dynamic Campaign) for DCS**
 
 - 🌱 I'm currently learning **Lua & MOOSE & Modding Hytale**
 
 - 👯 I'm looking to collaborate on **Hytale Mods**
 
-- 🤝 I'm looking for help with **AMDC**
+- 🤝 I'm looking for help with **ADC**
 
 - 💬 Ask me about **DCS & Hytale**
 
