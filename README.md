@@ -4,9 +4,9 @@
 
 - 🔭 I'm currently working on **ADC (Advanced Dynamic Campaign) for DCS**
 
-- 🌱 I'm currently learning **Lua & MOOSE & Modding Hytale**
+- 🌱 I'm currently learning **Rust**
 
-- 👯 I'm looking to collaborate on **Hytale Mods**
+- 👯 I'm looking to collaborate on **cool projects**
 
 - 🤝 I'm looking for help with **ADC**
 
