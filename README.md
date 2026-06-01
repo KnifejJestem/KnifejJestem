@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **DCS & Hytale**
 
-- 📫 How to reach me **@knifej on discord or knifejjestem@gmail.com**
+- 📫 How to reach me **@knifej on discord or knifej0@proton.me**
 
 - ⚡ Fun fact **I dont respond to emails**
 
