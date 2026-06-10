@@ -2,19 +2,17 @@
 
 ### A lazy developer from poland
 
-- 🔭 I'm currently working on **ADC (Advanced Dynamic Campaign) for DCS**
+- 🔭 I'm currently working on **Nothing**
 
-- 🌱 I'm currently learning **Rust**
+- 🌱 I'm currently learning **How to make my Arch install beatiful**
 
 - 👯 I'm looking to collaborate on **cool projects**
 
 - 🤝 I'm looking for help with **ADC**
 
-- 💬 Ask me about **DCS & Hytale**
+- 💬 Ask me about **DCS**
 
 - 📫 How to reach me **@knifej on discord or knifej0@proton.me**
-
-- ⚡ Fun fact **I dont respond to emails**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
