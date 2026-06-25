@@ -1,10 +1,10 @@
 # Hi 👋, I'm Matthew aka Knifej
 
-### A lazy developer from poland
+### A not so lazy now developer from poland
 
-- 🔭 I'm currently working on **Nothing**
+- 🔭 I'm currently working on **DevOps scripts**
 
-- 🌱 I'm currently learning **How to make my Arch install beatiful**
+- 🌱 I'm currently learning **DevOps and Automation scripts**
 
 - 👯 I'm looking to collaborate on **cool projects**
 
